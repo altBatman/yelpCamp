@@ -1,0 +1,3 @@
+All the node packages are removed
+
+Run 'npm install'

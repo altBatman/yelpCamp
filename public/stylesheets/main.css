@@ -1,0 +1,43 @@
+.navbar-brand{
+    font-family: Lobster;
+}
+
+.card-columns .card .card-footer{
+    background-color: #E1E4E6;
+    color: black;
+}
+
+.mb-3{
+    margin:10 px;
+    padding: 10 px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+.jumbotron h1{
+    font-family: Lobster;
+}
+.col-md-9 .img-thumbnail .caption-full{
+    padding: 10px;
+}
+.lead a{
+
+    font-weight: bold;
+    font-size: 100%;
+    width:100%;
+}
+
+#flash-message{
+    padding-top: 20px;
+}
+
+#homepage-container{
+    max-width: 1200px;
+}
+/* Google Maps */
+#map{
+    height: 400px;
+    width:100%;
+}
